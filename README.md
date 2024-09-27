@@ -5,7 +5,7 @@ This application allows users to register and manage multiple addresses. It uses
 ## Features
 
 - **User Registration**: Users can register with a name and an initial address. 
-- **Multiple Addresses**: Users can add multiple addresses associated with their id, here we are considering username as unique and adding multiple using name.
+- **Multiple Addresses**: Users can add multiple addresses associated with their id, here we are considering username as unique and adding multiple address using name.
 - **MongoDB Integration**: Uses MongoDB to store user and address data.
 
 ---
