@@ -1,6 +1,6 @@
 # User Registration and Address Management
 
-In this application that allows users to register and manage multiple addresses. It uses MongoDB for data storage and Express.js as the web framework.
+This application allows users to register and manage multiple addresses. It uses MongoDB for data storage and Express.js as the web framework.
 
 ## Features
 
